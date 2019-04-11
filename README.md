@@ -15,6 +15,6 @@ Equipment
 - Longboard
 - Suspension trucks
 - Battery Pack
-- Motors
+- Electric Motors
 - Remote
 - Hardware
